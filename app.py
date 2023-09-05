@@ -4,7 +4,7 @@
 
 import streamlit as st
 import numpy as np
-sudo pip3 install scikit-learn
+
 
 
 import pandas as pd
