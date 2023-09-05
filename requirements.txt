@@ -1,13 +1,13 @@
 
 tensorflow-cpu==2.12.0
-tensorflow
+
 streamlit==1.24.0
 numpy
 pandas
 scikit-learn
 
-pickle
+pickle==4.0
 keras==2.12.0
 
 matplotlib
-python-resize-image
+
