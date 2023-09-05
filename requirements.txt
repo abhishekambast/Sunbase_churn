@@ -4,7 +4,7 @@ tensorflow
 streamlit==1.24.0
 numpy
 pandas
-sklearn
+scikit-learn
 
 pickle
 keras==2.12.0
