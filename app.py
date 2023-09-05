@@ -11,7 +11,7 @@ import pandas as pd
 import pickle
 import sklearn
 
-sudo pip install scikit-learn
+!pip install scikit-learn
 
 
     
